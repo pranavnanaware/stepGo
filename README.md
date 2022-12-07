@@ -36,7 +36,13 @@ Future Steps ✨
 
 ## Getting Started
 
+<<<<<<< HEAD
 
+=======
+```properties
+npm run build
+```  
+>>>>>>> d5bec1cfb3fa98c59deaee3c439f5da561ad797d
 
 This project is a starting point for a Flutter application.
 
