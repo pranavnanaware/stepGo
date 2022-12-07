@@ -28,6 +28,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: primaryColor,
         useMaterial3: true,
       ),
+      debugShowCheckedModeBanner: false,
       home: const AuthChecker(),
     );
   }

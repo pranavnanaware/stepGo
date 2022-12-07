@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		WmIdfvwKI8/cMEF5kwrC0lxR1/k=
+		HBcrWp5TA1fJ+M0S178Ina6NkYI=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		LDUI+/7zxnD3vZYyNjkhW6Pb0L4=
+		zkMcIM+9eltIjRATYUrZmQ73/e8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		mnmmAJTkFkhYodWV1SWVUEte7Uw=
+		d41rq/6BiwRvd1eJsEBj76UjJ70=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/product_image.webp</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		SjZV9se9BEeCyGck4ZdwxCWUP1s=
+		plhAMQJ24UGKiP9GeqAQzDgeimU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/FirebaseAuth</key>
 		<data>
-		CYj18NmcVeu7KPGzmMk/4J0v9ek=
+		YvG551838NSzJn2vYpeCNW9PbM0=
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Frameworks/FirebaseCore.framework/FirebaseCore</key>
 		<data>
-		ndxE6B5/VL4elJiNjGmGGXNU4L8=
+		7sygsfLVl44hasXK7EbTsDFekbo=
 		</data>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/FirebaseFirestore</key>
 		<data>
-		6JPzUIC2vAzmpZ5UaG032mcTujI=
+		8fjsPQs+rI454s11bLnV3PoG4UQ=
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
 		<data>
@@ -394,7 +394,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nkK4EBZ+7Xjx+ZpmFxjbW6mZvnA=
+		T5DTPALunTjSxNP4FNivTB+m3XM=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -477,7 +477,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nMas6d0am1e7OMzBQ0Dl0InK2+8DHlSkHPH1uSefrEI=
+			XU+Q1Ily+aH1vxR0jBW7leg4UJ5RU2u5m4B6igfwlfM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -491,7 +491,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VajlglqBe3g1glYu6zFZ9t20fxUi+2OHAheYT8dZjCo=
+			5ZPiTKOIQzxb6G3IJ8kjIlbKsA4m8WZdr6vOlhvacQw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -512,7 +512,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m8gRBPmAhuF+O07veP7cLNuw4dul/1awuJ7okKi6lyI=
+			ZptSCNE+7bjzLcofHxqVoKjgn1TydjzS28Ya9ypEReA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/product_image.webp</key>
@@ -540,7 +540,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g+51/4Ry907gopoAxCJLR64n63L1Z1UB0qEQsHH23gU=
+			sLiU/0uJKnYE+8GzRatwU/IBo+7r087kdh+mck6G4Ng=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -589,7 +589,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ntRqmZ/3FnuIOWXMaJVerdUfB7jZmd6lVSOh5F9ew6c=
+			YZZOtMqYmPlINbkONtYV1vfb6WprM/X+c/snUQmC4qU=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
@@ -610,7 +610,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			E9I6GbWWdNrBY1YEUdMryLjnJ5MpvvVTJDI9nh21r+Y=
+			JlilaAE3WKp5f4goZ1Vh2RcAbcjYVmObZnCdnxlAGH8=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
@@ -652,7 +652,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oz6kTrz1A/XH4i65+vQXYx2fS5dQ3tEOC9eDsBVKG0s=
+			k9ECRDVNl85P6ULYgznh/c/Va7Mz9YnwqSz7Yetf4FM=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
