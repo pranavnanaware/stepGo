@@ -1,4 +1,4 @@
-# stepGO
+# StepGO
 
 It's an open source project for steps tracking built with Flutter and integrated with Firebase as the initial backend service.
 
@@ -7,6 +7,7 @@ Some of the features should have been in the server-side using cloud functions, 
 So you may find some workarounds that will be more accurate and better after adding the server-side functions.
 
 Quick Start 🚀
+
 Feature Set ✨
 - [x] Free & Open Source
 - [x] Cross Platform App (Android - IOS)
@@ -36,13 +37,6 @@ Future Steps ✨
 
 ## Getting Started
 
-<<<<<<< HEAD
-
-=======
-```properties
-npm run build
-```  
->>>>>>> d5bec1cfb3fa98c59deaee3c439f5da561ad797d
 
 This project is a starting point for a Flutter application.
 
